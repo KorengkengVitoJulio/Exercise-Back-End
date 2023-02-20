@@ -1,0 +1,16 @@
+{
+  "name": "group-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vito",
+  "license": "ISC",
+  "dependencies": {
+    "helloWorld": "^1.0.0",
+    "moment": "^2.29.4"
+  }
+}
